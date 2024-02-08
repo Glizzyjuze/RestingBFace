@@ -1,0 +1,17 @@
+c:\Users\hugo.zingmark\Desktop\Programmering\RestingBFace\RestingBFace\bin\Debug\net7.0\RestingBFace.exe
+c:\Users\hugo.zingmark\Desktop\Programmering\RestingBFace\RestingBFace\bin\Debug\net7.0\RestingBFace.deps.json
+c:\Users\hugo.zingmark\Desktop\Programmering\RestingBFace\RestingBFace\bin\Debug\net7.0\RestingBFace.runtimeconfig.json
+c:\Users\hugo.zingmark\Desktop\Programmering\RestingBFace\RestingBFace\bin\Debug\net7.0\RestingBFace.dll
+c:\Users\hugo.zingmark\Desktop\Programmering\RestingBFace\RestingBFace\bin\Debug\net7.0\RestingBFace.pdb
+c:\Users\hugo.zingmark\Desktop\Programmering\RestingBFace\RestingBFace\bin\Debug\net7.0\RestSharp.dll
+c:\Users\hugo.zingmark\Desktop\Programmering\RestingBFace\RestingBFace\obj\Debug\net7.0\RestingBFace.csproj.AssemblyReference.cache
+c:\Users\hugo.zingmark\Desktop\Programmering\RestingBFace\RestingBFace\obj\Debug\net7.0\RestingBFace.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hugo.zingmark\Desktop\Programmering\RestingBFace\RestingBFace\obj\Debug\net7.0\RestingBFace.AssemblyInfoInputs.cache
+c:\Users\hugo.zingmark\Desktop\Programmering\RestingBFace\RestingBFace\obj\Debug\net7.0\RestingBFace.AssemblyInfo.cs
+c:\Users\hugo.zingmark\Desktop\Programmering\RestingBFace\RestingBFace\obj\Debug\net7.0\RestingBFace.csproj.CoreCompileInputs.cache
+c:\Users\hugo.zingmark\Desktop\Programmering\RestingBFace\RestingBFace\obj\Debug\net7.0\RestingBFace.csproj.CopyComplete
+c:\Users\hugo.zingmark\Desktop\Programmering\RestingBFace\RestingBFace\obj\Debug\net7.0\RestingBFace.dll
+c:\Users\hugo.zingmark\Desktop\Programmering\RestingBFace\RestingBFace\obj\Debug\net7.0\refint\RestingBFace.dll
+c:\Users\hugo.zingmark\Desktop\Programmering\RestingBFace\RestingBFace\obj\Debug\net7.0\RestingBFace.pdb
+c:\Users\hugo.zingmark\Desktop\Programmering\RestingBFace\RestingBFace\obj\Debug\net7.0\RestingBFace.genruntimeconfig.cache
+c:\Users\hugo.zingmark\Desktop\Programmering\RestingBFace\RestingBFace\obj\Debug\net7.0\ref\RestingBFace.dll
