@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\hugo.zingmark\\Desktop\\Programmering\\RestingBFace\\RestingBFace\\RestingBFace.csproj": {}
+    "C:\\Users\\hugo.zingmark\\Desktop\\Programmering\\RestingBFace\\RestingBFace\\RestingBFace.csproj": {}
   },
   "projects": {
-    "c:\\Users\\hugo.zingmark\\Desktop\\Programmering\\RestingBFace\\RestingBFace\\RestingBFace.csproj": {
+    "C:\\Users\\hugo.zingmark\\Desktop\\Programmering\\RestingBFace\\RestingBFace\\RestingBFace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\hugo.zingmark\\Desktop\\Programmering\\RestingBFace\\RestingBFace\\RestingBFace.csproj",
+        "projectUniqueName": "C:\\Users\\hugo.zingmark\\Desktop\\Programmering\\RestingBFace\\RestingBFace\\RestingBFace.csproj",
         "projectName": "RestingBFace",
-        "projectPath": "c:\\Users\\hugo.zingmark\\Desktop\\Programmering\\RestingBFace\\RestingBFace\\RestingBFace.csproj",
+        "projectPath": "C:\\Users\\hugo.zingmark\\Desktop\\Programmering\\RestingBFace\\RestingBFace\\RestingBFace.csproj",
         "packagesPath": "C:\\Users\\hugo.zingmark\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\hugo.zingmark\\Desktop\\Programmering\\RestingBFace\\RestingBFace\\obj\\",
+        "outputPath": "C:\\Users\\hugo.zingmark\\Desktop\\Programmering\\RestingBFace\\RestingBFace\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
