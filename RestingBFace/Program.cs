@@ -21,7 +21,4 @@ else
     Console.WriteLine("Error");
 }
 
-//Console.WriteLine(response.Content);
-//File.WriteAllText("StarWars.json", response.Content);
-
 Console.ReadLine();

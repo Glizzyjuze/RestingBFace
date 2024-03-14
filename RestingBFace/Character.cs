@@ -9,5 +9,5 @@ public class Character
     public string Gender { get; set; }
 
     [JsonPropertyName("height")]
-    public int Height { get; set; }
+    public string Height { get; set; }
 }
